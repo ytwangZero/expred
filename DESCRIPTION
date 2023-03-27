@@ -1,0 +1,27 @@
+Package: expred
+Title: Integrate the multi-group data to predict the incidence of diseases.
+Version: 1.0.0
+Authors@R:
+    c(
+    person(given='Guohuan',
+    family = 'Zhang',
+    role = c('aut','cre'),
+    email = 'granhamzhang@foxmail.com'),
+    person(given='Yuting',
+    family = 'Wang',
+    role = 'aut'),
+    person(given='Bin',
+    family = 'Wang',
+    role = c('aut','cph'),
+    email = 'binwang@pku.edu.cn')
+    )
+Description: To integrate the multi-group data to predict the incidence of diseases. 
+    It mainly aims to construct various stacked generalization(SG) models to predict 
+    the response or probability of outcome incidence, as well as providing the
+    statistical explanation.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: httr,vroom,ggplot2,readxl,writexl,gridExtra
+
