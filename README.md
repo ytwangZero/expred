@@ -1,8 +1,7 @@
-Here's a professional English description for your R package README file:
-
----
-
 # expred: Exposome-based Disease Risk Prediction R Package
+
+## Author
+Yuting Wang, Bin Wang (corresponding author)
 
 ## Overview
 
